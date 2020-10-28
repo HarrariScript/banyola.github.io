@@ -1,0 +1,2 @@
+(this.webpackJsonpzango=this.webpackJsonpzango||[]).push([[0],{4:function(n,e,t){"use strict";t.r(e);var c=t(0),o=(t(2),t(3));function r(){return Object(c.jsx)("div",{children:Object(c.jsx)("h1",{children:"Banyola.com"})})}t.n(o).a.render(Object(c.jsx)(r,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.a0695c1c.chunk.js.map
